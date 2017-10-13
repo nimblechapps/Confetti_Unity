@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Confetti Particle/_Scene.unity
+  isLoaded: 1
+  isActive: 1
